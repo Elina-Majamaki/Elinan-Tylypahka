@@ -1,6 +1,7 @@
 body {
     font-family: Georgia, serif;
-    background-color: black;
+    background-image: url(https://cdn.pixabay.com/photo/2022/02/07/15/29/polar-lights-6999663_960_720.jpg);
+    background-size: cover;
 }
 
 h1 {
